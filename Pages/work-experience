@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Metadata of the Webpage>
+    <!-- Description Metadata-->
+    <meta name="description" content="Personal Portfolio Website" />
+    <!-- Author Metadata -->
+    <meta name="author" content="Pedro Zulaica Rey" />
+    <!-- Webpage Title -->
+    <title>Pedro Zulaica Rey Portfolio</title>
+	<!-- I should add a favicon here -->
+  </head>
+  
+  <body>
+	<h1>Work Experience.</h1>
+	 
+	<footer>
+	  <p>Author: Pedro Zulaica Rey</p>
+    </footer>  
+	  
+  </body>
+</html>
