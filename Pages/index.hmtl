@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Metadata of the Webpage>
+    <!-- Description Metadata-->
+    <meta name="description" content="Personal Portfolio Website" />
+    <!-- Author Metadata -->
+    <meta name="author" content="Pedro Zulaica Rey" />
+    <!-- Webpage Title -->
+    <title>Pedro Zulaica Rey Portfolio</title>
+	<!-- I should add a favicon here -->
+  </head>
+  
+  <body>
+  
+	<nav>
+	  <a href="file:///C:/Users/zulai/Downloads/Personal Portfolio/index.html">Home</a> | 
+      <a href="file:///C:/Users/zulai/Downloads/Personal Portfolio/Work-Experience.html">Work Experience</a> | 
+      <a href="/Education.html">Education</a> | 
+      <a href="/Projects.html">Projects</a> |
+	  <a href="/Skills.html">Skills</a> |
+	</nav>
+  
+	<p>This is a paragraph.</p>
+	<p>This is another paragraph.</p>
+	 <a href="https://www.linkedin.com/in/zulaicarey-pedro/">zulaicarey-pedro</a> 
+	 
+	<footer>
+	  <p>Author: Pedro Zulaica Rey</p>
+    </footer>  
+	  
+  </body>
+</html>
