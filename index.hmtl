@@ -15,11 +15,11 @@
   
   <body>
     <nav>
-      <a href="./Pages/index.html">Home</a> | 
-      <a href="./Pages/work-experience.html">Experience</a> | 
-      <a href="./Pages/education.html">Education</a> | 
-      <a href="./Projects.html">Projects</a> |
-      <a href="./Skills.html">Skills</a> |
+      Home | 
+      Experience | 
+      Education | 
+      Projects |
+      Skills |
     </nav>
       <p>This is a paragraph.</p>
       <p>This is another paragraph.</p>
