@@ -8,25 +8,25 @@
     <meta name="author" content="Pedro Zulaica Rey" />
     <!-- Webpage Title -->
     <title>Pedro Zulaica Rey Portfolio</title>
-	<!-- I should add a favicon here -->
+    <!-- I should add a favicon here -->
+    <!-- Import CSS: Main Stylesheet -->
+    <link rel="stylesheet" href="./assets/css/main.css" />	
   </head>
   
   <body>
-  
-	<nav>
-	  <a href="file:///C:/Users/zulai/Downloads/Personal Portfolio/index.html">Home</a> | 
-      <a href="file:///C:/Users/zulai/Downloads/Personal Portfolio/Work-Experience.html">Work Experience</a> | 
-      <a href="/Education.html">Education</a> | 
+    <nav>
+      <a href="/Pages/index.html">Home</a> | 
+      <a href="/Pages/work-experience.html">Experience</a> | 
+      <a href="/Pages/education.html">Education</a> | 
       <a href="/Projects.html">Projects</a> |
-	  <a href="/Skills.html">Skills</a> |
-	</nav>
-  
-	<p>This is a paragraph.</p>
-	<p>This is another paragraph.</p>
-	 <a href="https://www.linkedin.com/in/zulaicarey-pedro/">zulaicarey-pedro</a> 
+      <a href="/Skills.html">Skills</a> |
+    </nav>
+      <p>This is a paragraph.</p>
+      <p>This is another paragraph.</p>
+      <a href="https://www.linkedin.com/in/zulaicarey-pedro/">zulaicarey-pedro</a> 
 	 
-	<footer>
-	  <p>Author: Pedro Zulaica Rey</p>
+    <footer>
+      <p>Author: Pedro Zulaica Rey</p>
     </footer>  
 	  
   </body>
