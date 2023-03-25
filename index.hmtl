@@ -10,7 +10,7 @@
     <title>Pedro Zulaica Rey Portfolio</title>
     <!-- I should add a favicon here -->
     <!-- Import CSS: Main Stylesheet -->
-    <link rel="stylesheet" href="./assets/css/main.css" />	
+    <link rel="stylesheet" href="./Assets/CSS/main.css" />	
   </head>
   
   <body>
