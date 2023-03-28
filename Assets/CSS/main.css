@@ -1,3 +1,7 @@
+/* Definitions of colors */
+$navigation-bar-text: #f857a8;
+$navigation-bar-background: #ff5858;
+
 body {
   margin: 0;
 }
