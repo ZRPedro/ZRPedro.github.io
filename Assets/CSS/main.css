@@ -2,6 +2,9 @@
 $navigation-bar-text: #f857a8;
 $navigation-bar-background: #ff5858;
 
-body {
+/* Navigation bar */
+nav{
   margin: 0;
+  padding: 0;
+  background-color: $navigation-bar-background;
 }
