@@ -2,8 +2,15 @@
 $navigation-bar-text: #f857a8;
 $navigation-bar-background: #ff5858;
 
+
+/* Hyperlink environment */
+a {
+  color: red;
+}
+
+
 /* Navigation bar */
-nav{
+nav {
   margin: 0;
   padding: 0;
   overflow: hidden;
