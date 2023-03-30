@@ -1,0 +1,65 @@
+/* Define colors */
+:root {
+  --page-bg-color: #f3f6f4;	
+  --navigationbar-bg-color: #3d85c6;
+  --navigationbar-active-bg-color: #16537e;
+  --navigationbar-text-color: #ffffff;
+  --footer-bg-color: #3d85c6;
+  --footer-text-color: #ffffff;
+}
+/* Body */
+body {
+  background-color: var(--page-bg-color);	
+  font: normal 16px Verdana, Arial, sans-serif;
+  margin: 0;
+}
+/* Navigation bar */
+.nav {
+  margin: 0;
+  padding: 15px;
+  left: 0;
+  bottom: 0;
+  background-color: var(--navigationbar-bg-color);
+  font-size: 22px;
+  height: 27px;
+}
+nav:after {
+  clear: both;
+}
+.nav-left {
+    float: left;
+}
+.nav-right {
+    float: right;
+}
+.nav a.hover{
+  background-color: var(--navigationbar-active-bg-color);	
+}
+.nav a.active {
+  background-color: var(--navigationbar-active-bg-color);
+  color: white;
+  margin: 0;
+  padding: 15px;
+  transform: skew(5deg, 5deg);
+}
+.nav a:visited {
+  text-decoration: none; 
+  color:var(--navigationbar-text-color); 
+}
+/* Hyperlinks */
+a {
+  text-decoration: none;
+}
+p {
+
+}
+/* Footer */
+footer {
+position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: var(--footer-bg-color);
+   color: var(--footer-text-color);
+   text-align: center;
+}
